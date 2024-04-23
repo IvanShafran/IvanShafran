@@ -5,4 +5,4 @@
 - ✏️ Write articles on [medium](https://medium.com/@shafran)
 - 🌱 I’m currently learning WEB development
 - 🏐 Like playing volleyball and computer games
-- ⚡ Let's be friends at [twitter](https://twitter.com/NotShafran), [medium](https://medium.com/@shafran), [github](https://github.com/ivanshafran), [facebook](https://www.facebook.com/), [linkedin](https://www.linkedin.com/in/ivan-shafran-38761a186/)
+- ⚡ Let's be friends at [twitter](https://twitter.com/NotShafran), [medium](https://medium.com/@shafran), [github](https://github.com/ivanshafran), [facebook](https://www.facebook.com/), [linkedin](https://www.linkedin.com/in/ivan-shafran/)
